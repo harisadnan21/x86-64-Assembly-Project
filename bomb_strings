@@ -1,0 +1,253 @@
+    238 /lib64/ld-linux-x86-64.so.2
+    4a1 libc.so.6
+    4ab fflush
+    4b2 __printf_chk
+    4bf exit
+    4c4 fopen
+    4ca __isoc99_sscanf
+    4da signal
+    4e1 puts
+    4e6 __stack_chk_fail
+    4f7 stdin
+    4fd fgets
+    503 stdout
+    50a __ctype_b_loc
+    518 getenv
+    51f sleep
+    525 __cxa_finalize
+    534 __libc_start_main
+    546 GLIBC_2.3
+    550 GLIBC_2.3.4
+    55c GLIBC_2.7
+    566 GLIBC_2.4
+    570 GLIBC_2.2.5
+    57c _ITM_deregisterTMCloneTable
+    598 __gmon_start__
+    5a7 _ITM_registerTMCloneTable
+    d7f t19C
+    e5e ATUSH
+    e84 []A\
+    e8e t':E
+   1128 ***truncH
+   1132 ated***
+   1170 AWAVI
+   1177 AUATL
+   11ca []A\A]A^A_
+   11f6 %s: Error: Couldn't open %s
+   1213 Usage: %s [<input_file>]
+   122d That's number 2.  Keep going!
+   124b Almost there, one more to go!
+   1270 Welcome to my fiendish little bomb. You have 4 phases with
+   12b0 which to blow yourself up. Have a nice day!
+   12e0 Phase 1 defused. How about the next one?
+   1310 Why is 210 now an alternative to 250?
+   1358 So you think you can stop the bomb with ctrl-c, do you?
+   1390 Congratulations! You've defused the bomb!
+   13c0 Well...
+   13c8 OK. :-)
+   13d0 Invalid phase%s
+   13e2 BOOM!!!
+   13ea The bomb has blown up.
+   1401 %d %d %d %d %d %d
+   1413 Error: Premature EOF on stdin
+   1431 GRADE_BOMB
+   143c Error: Input line too long
+   1587 ;*3$"
+   2080 GCC: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+   2742 <Welcome to my fiendish little bomb. You have 4 phases with
+   2791 -which to blow yourself up. Have a nice day!
+   27c2 *Phase 1 defused. How about the next one?
+   27f1 That's number 2.  Keep going!
+   2814 Almost there, one more to go!
+   2a86 /usr/include/x86_64-linux-gnu/bits
+   2aa9 /usr/lib/gcc/x86_64-linux-gnu/7/include
+   2ad1 /usr/include/x86_64-linux-gnu/bits/types
+   2afa /usr/include
+   2b08 bomb.c
+   2b12 stdio2.h
+   2b1e stddef.h
+   2b2a types.h
+   2b35 libio.h
+   2b40 FILE.h
+   2b4a stdio.h
+   2b55 sys_errlist.h
+   2b66 support.h
+   2b73 phases.h
+   2b7f stdlib.h
+   2b8b <built-in>
+   2c03 printf
+   2c0a __off_t
+   2c12 _IO_read_ptr
+   2c1f _chain
+   2c26 size_t
+   2c2d _shortbuf
+   2c37 _IO_2_1_stderr_
+   2c47 _IO_buf_base
+   2c54 long long unsigned int
+   2c6b read_line
+   2c75 long long int
+   2c83 phase_defused
+   2c91 _fileno
+   2c99 _IO_read_end
+   2ca6 _flags
+   2cad _IO_buf_end
+   2cb9 _cur_column
+   2cc5 __printf_chk
+   2cd2 _old_offset
+   2cde infile
+   2ce5 initialize_bomb
+   2cf5 _IO_marker
+   2d00 stdin
+   2d06 _IO_FILE_plus
+   2d14 _IO_write_ptr
+   2d22 sys_nerr
+   2d2b _sbuf
+   2d31 short unsigned int
+   2d44 _IO_save_base
+   2d52 _lock
+   2d58 _flags2
+   2d60 _mode
+   2d66 __builtin_puts
+   2d75 stdout
+   2d7c _IO_2_1_stdin_
+   2d8b _IO_write_end
+   2d99 _IO_lock_t
+   2da4 _IO_FILE
+   2dad fopen
+   2db3 _pos
+   2db8 sys_errlist
+   2dc4 _markers
+   2dcd unsigned char
+   2ddb short int
+   2de5 /home/term/projects/bomblab/src
+   2e05 _vtable_offset
+   2e14 _IO_2_1_stdout_
+   2e24 exit
+   2e29 bomb.c
+   2e30 input
+   2e36 _next
+   2e3c __off64_t
+   2e46 _IO_read_base
+   2e54 _IO_save_end
+   2e61 __fmt
+   2e67 __pad1
+   2e6e __pad2
+   2e75 __pad3
+   2e7c __pad4
+   2e83 __pad5
+   2e8a _unused2
+   2e93 stderr
+   2e9a argv
+   2e9f phase_1
+   2ea7 phase_2
+   2eaf phase_3
+   2eb7 phase_4
+   2ebf _IO_backup_base
+   2ecf argc
+   2ed4 GNU C11 7.5.0 -mtune=generic -march=x86-64 -ggdb -O1 -fstack-protector-strong
+   2f22 main
+   2f27 _IO_write_base
+   3c49 crtstuff.c
+   3c54 deregister_tm_clones
+   3c69 __do_global_dtors_aux
+   3c7f completed.7698
+   3c8e __do_global_dtors_aux_fini_array_entry
+   3cb5 frame_dummy
+   3cc1 __frame_dummy_init_array_entry
+   3ce0 bomb.c
+   3ce7 phases.c
+   3cf0 support.c
+   3cfa sig_handler
+   3d06 __FRAME_END__
+   3d14 __init_array_end
+   3d25 _DYNAMIC
+   3d2e __init_array_start
+   3d41 __GNU_EH_FRAME_HDR
+   3d54 _GLOBAL_OFFSET_TABLE_
+   3d6a __libc_csu_fini
+   3d7a skip
+   3d7f getenv@@GLIBC_2.2.5
+   3d93 phase_defused
+   3da1 _ITM_deregisterTMCloneTable
+   3dbd stdout@@GLIBC_2.2.5
+   3dd1 puts@@GLIBC_2.2.5
+   3de3 stdin@@GLIBC_2.2.5
+   3df6 _edata
+   3dfd __stack_chk_fail@@GLIBC_2.4
+   3e19 num_input_strings
+   3e2b initialize_bomb_solve
+   3e41 blank_line
+   3e4c phase_3
+   3e54 phase_1
+   3e5c invalid_phase
+   3e6a node3
+   3e70 __libc_start_main@@GLIBC_2.2.5
+   3e8f fgets@@GLIBC_2.2.5
+   3ea2 explode_bomb
+   3eaf node1
+   3eb5 __data_start
+   3ec2 signal@@GLIBC_2.2.5
+   3ed6 node5
+   3edc __gmon_start__
+   3eeb __dso_handle
+   3ef8 _IO_stdin_used
+   3f07 host_table
+   3f12 string_length
+   3f20 __libc_csu_init
+   3f30 fflush@@GLIBC_2.2.5
+   3f44 __isoc99_sscanf@@GLIBC_2.7
+   3f5f infile
+   3f66 __bss_start
+   3f72 main
+   3f77 __printf_chk@@GLIBC_2.3.4
+   3f91 read_line
+   3f9b strings_not_equal
+   3fad phase_4
+   3fb5 fopen@@GLIBC_2.2.5
+   3fc8 scratch
+   3fd0 phase_2
+   3fd8 exit@@GLIBC_2.2.5
+   3fea bomb_id
+   3ff2 __TMC_END__
+   3ffe read_four_numbers
+   4010 _ITM_registerTMCloneTable
+   402a node2
+   4030 node4
+   4036 sleep@@GLIBC_2.2.5
+   4049 node6
+   404f __cxa_finalize@@GLIBC_2.2.5
+   406b read_six_numbers
+   407c initialize_bomb
+   408c __ctype_b_loc@@GLIBC_2.3
+   40a6 .symtab
+   40ae .strtab
+   40b6 .shstrtab
+   40c0 .interp
+   40c8 .note.ABI-tag
+   40d6 .note.gnu.build-id
+   40e9 .gnu.hash
+   40f3 .dynsym
+   40fb .dynstr
+   4103 .gnu.version
+   4110 .gnu.version_r
+   411f .rela.dyn
+   4129 .rela.plt
+   4133 .init
+   4139 .plt.got
+   4142 .text
+   4148 .fini
+   414e .rodata
+   4156 .eh_frame_hdr
+   4164 .eh_frame
+   416e .init_array
+   417a .fini_array
+   4186 .dynamic
+   418f .data
+   4195 .bss
+   419a .comment
+   41a3 .debug_aranges
+   41b2 .debug_info
+   41be .debug_abbrev
+   41cc .debug_line
+   41d8 .debug_str
+   41e3 .debug_loc

@@ -1,0 +1,3 @@
+Haris Adnan and Neil Mosca both collaboratively worked on all 4 phases of the project. 
+Haris worked on the majority of the first 2 phases and Neil worked on the majority of the last 2 phases. 
+We sat down together thrice to work side by side on the code.
